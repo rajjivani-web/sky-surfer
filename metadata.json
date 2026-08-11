@@ -1,0 +1,6 @@
+{
+  "name": "Sky Surfer",
+  "description": "An addictive endless runner game on floating sky platforms with power-ups, character skins, achievements, daily rewards, and shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
